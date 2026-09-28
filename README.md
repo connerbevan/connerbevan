@@ -12,7 +12,7 @@ I'm an electrical and computer engineering student at UAB, interested in coding,
 
 ## Skills and tools
 - **Languages:** C, Python
-- **Data:** pandas, matplotlib, Jupyter / Google Colab
+- **Data:** matplotlib, Jupyter / Google Colab
 - **Coursework:** digital logic, computer-aided design and graphics, engineering programming methods
 
 ## Get in touch
